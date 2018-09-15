@@ -1,0 +1,6 @@
+*.sln
+Debug/
+Release/
+bin/
+obj/
+.vs/
